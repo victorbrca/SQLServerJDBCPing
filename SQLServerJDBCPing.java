@@ -10,7 +10,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-public class ConnectURL {
+public class SQLServerJDBCPing {
     public static void main(String[] args) {
 
         //Checks args
